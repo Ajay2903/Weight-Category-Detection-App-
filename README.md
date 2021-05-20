@@ -18,7 +18,7 @@ The soruce code behind the application resides in four different files.
 As the name suggests this dart code forms the structure for the entire app. It uses custom widget created in the home file to form the entire app.
 The first two lines imports the required dependencies material.dart and home.dart.
 
-                      ![image](https://user-images.githubusercontent.com/78751003/119005891-7ba7b000-b9ad-11eb-929a-011054448634.png)
+![image](https://user-images.githubusercontent.com/78751003/119005891-7ba7b000-b9ad-11eb-929a-011054448634.png)
 
 
 
