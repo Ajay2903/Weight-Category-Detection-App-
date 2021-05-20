@@ -31,6 +31,13 @@ The title, theme and the home parameters of the MaterialApp function are assigne
 # Left.dart
 
 The left and the right files creates the most important decorating widget of the app. 
+The custom widget created in the left.dart file is shown below in the red box.
+
+![image](https://user-images.githubusercontent.com/78751003/119023929-26c16500-b9c0-11eb-9d84-8c75ae2457ed.png)
+
+The widget is made using the Row widget of the material.dart library. 
+
+
 
 
 
