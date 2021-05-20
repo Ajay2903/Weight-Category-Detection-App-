@@ -28,6 +28,10 @@ The title, theme and the home parameters of the MaterialApp function are assigne
 
 ![image](https://user-images.githubusercontent.com/78751003/119008189-911dd980-b9af-11eb-8929-e68db403cf6e.png)
 
+# Left.dart
+
+The left and the right files creates the most important decorating widget of the app. 
+
 
 
 
