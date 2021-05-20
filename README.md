@@ -20,5 +20,14 @@ The first two lines imports the required dependencies material.dart and home.dar
 
 ![image](https://user-images.githubusercontent.com/78751003/119005891-7ba7b000-b9ad-11eb-929a-011054448634.png)
 
+Then the MyApp widget which is a Stateless Widget is created. To initiate the execution of the code, main function calls MyApp.
+
+![image](https://user-images.githubusercontent.com/78751003/119006644-2d46e100-b9ae-11eb-9733-3c63782f9708.png)
+
+The title, theme and the home parameters of the MaterialApp function are assigned. The HomeScreen widget designed in the home.dart file is assigned to the home parameter. The Widget build function creates the root widget of our app (MaterialApp) in users screen.
+
+![image](https://user-images.githubusercontent.com/78751003/119008189-911dd980-b9af-11eb-8929-e68db403cf6e.png)
+
+
 
 
