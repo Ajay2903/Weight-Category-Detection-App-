@@ -90,7 +90,8 @@ Before adding our custom design widget a sized box is used to create appropriate
 
 The application is ready!
 
-![BMI_calculated](https://user-images.githubusercontent.com/78751003/119263346-4b098580-bbfc-11eb-8180-70927690b5e7.PNG)
+![BMI_calculated2](https://user-images.githubusercontent.com/78751003/119269338-d0009900-bc14-11eb-978e-63a59ec06a53.PNG)
+
 
 
 
